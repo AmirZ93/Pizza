@@ -1,3 +1,4 @@
-taxi={}
-def add_taxi(plak,loc):
-  taxi[plak]:loc
+market={}
+def add_commodity(commodity):
+  
+  
